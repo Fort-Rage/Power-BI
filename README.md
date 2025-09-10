@@ -36,7 +36,3 @@ The dashboard highlights **customer preferences, seasonal trends, product catego
 - `Shopping-Trends-Analytics.pbix` – Power BI project file  
 - `README.md` – project documentation  
 - `screenshots/` – dashboard images  
-
----
-
-✨ This project demonstrates my skills in **data visualization, analytics, and dashboard design** using Power BI.  
