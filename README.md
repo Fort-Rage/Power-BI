@@ -33,6 +33,6 @@ The dashboard highlights **customer preferences, seasonal trends, product catego
 ![Revenue Page](screenshots/dashboard_revenue.png)
 
 ## 📁 Files
-- `Shopping-Trends-Analytics.pbix` – Power BI project file  
-- `README.md` – project documentation  
 - `screenshots/` – dashboard images  
+- `README.md` – project documentation  
+- `Shopping-Trends-Analytics.pbix` – Power BI project file  
